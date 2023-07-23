@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-pagination-bullets > .swiper-pagination-bullet {
+  border-radius: 0;
+}
